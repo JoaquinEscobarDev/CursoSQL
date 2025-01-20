@@ -30,6 +30,15 @@ USE CursoSQL;
 --('Emily', 'Wilson', 35, 'emily.wilson@example.com'),
 --('David', 'Clark', 42, 'david.clark@example.com');
 
+---- Insertar en INSTRUCTORS
+--INSERT INTO dbo.INSTRUCTORS (SPECIALIZATION, SALARY)
+--VALUES 
+--('Mathematics', 60000),
+--('Physics', 65000),
+--('Computer Science', 70000),
+--('Chemistry', 62000),
+--('Biology', 58000);
+
 ---- Insertar en COURSES
 --INSERT INTO dbo.COURSES (COURSEID, COURSENAME, DESCRIPTION, INSTRUCTORID, DURATIONHOURS)
 --VALUES 

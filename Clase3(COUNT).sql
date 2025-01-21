@@ -4,5 +4,9 @@
 --HAVING COUNT(STUDENTID) >= 1;
 
 
-SELECT sum(SALARY) AS 'Salary'
+--SELECT sum(SALARY) AS 'Salary'
+--FROM INSTRUCTORS
+
+--suma y calcula el promedio
+SELECT sum(SALARY) AS 'SALARY' , avg(salary) AS 'AVG'
 FROM INSTRUCTORS

@@ -8,5 +8,5 @@
 --FROM INSTRUCTORS
 
 --suma y calcula el promedio
-SELECT sum(SALARY) AS 'SALARY' , avg(salary) AS 'AVG'
-FROM INSTRUCTORS
+--SELECT sum(SALARY) AS 'SALARY' , avg(salary) AS 'AVG'
+--FROM INSTRUCTORS
